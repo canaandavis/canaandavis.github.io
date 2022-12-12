@@ -1,0 +1,15 @@
+{
+  "name": "canaandavis.github.io",
+  "version": "1.0.0",
+  "source": "index.html",
+  "repository": "git@github.com:canaandavis/canaandavis.github.io.git",
+  "author": "Canaan Davis <canaandavis@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "parcel",
+    "build": "parcel build"
+  },
+  "devDependencies": {
+    "parcel": "^2.8.1"
+  }
+}
