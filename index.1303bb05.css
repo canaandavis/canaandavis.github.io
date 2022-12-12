@@ -14,6 +14,10 @@ span {
   display: block;
 }
 
+.content {
+  padding: 1rem;
+}
+
 .txt-white {
   color: #fff;
 }
@@ -22,8 +26,10 @@ span {
   font-size: 5rem;
 }
 
-.txt-right {
-  text-align: right;
+@media (max-width: 640px) {
+  .welcome-text {
+    font-size: 3rem;
+  }
 }
 
 /*# sourceMappingURL=index.1303bb05.css.map */
